@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = Mortgage Calculator
+title = Imzo
 
 # (str) Package name
 package.name = imzo-fabrique
